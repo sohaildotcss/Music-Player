@@ -1,10 +1,9 @@
-import { useState } from "react";
 import "./App.css";
+import Homepage from "./pages/homepage";
+import "./assets/global.css";
 
 function App() {
-  const [count, setCount] = useState(0);
-
-  return <></>;
+  return <Homepage />;
 }
 
 export default App;
