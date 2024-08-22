@@ -19,7 +19,7 @@ A modern Spotify-like music player built with React, Apollo Client, GraphQL, and
 
 ## Demo
 
-Check out a live demo of the project [here](#).
+Check out a live demo of the project [here](https://spotify-musicplayer.vercel.app/).
 
 ## Features
 
