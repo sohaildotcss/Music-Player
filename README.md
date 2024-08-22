@@ -52,13 +52,13 @@ Ensure you have the following installed on your local development environment:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/spotify_players.git
+   git clone https://github.com/sohaildotcss/Music-Player.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd spotify_players
+   cd Music-Player
    ```
 
 3. Install the dependencies:
