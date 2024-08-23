@@ -217,7 +217,7 @@ input {
   display: none;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1492px) {
   body {
     overflow-x: hidden;
     min-height: 100% !important;
@@ -279,5 +279,17 @@ input {
   }
   .played_songs_details {
     margin-left: -140px;
+  }
+}
+
+@media (max-width: 580px) {
+  .homepage {
+    min-width: 100% !important;
+    height: 100% !important;
+    overflow: hidden;
+  }
+  .media-player {
+    padding-top: 5px;
+    overflow-x: hidden;
   }
 }
